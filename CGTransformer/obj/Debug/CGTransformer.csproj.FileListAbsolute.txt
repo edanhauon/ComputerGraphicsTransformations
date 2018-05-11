@@ -1,0 +1,10 @@
+C:\Users\t-edhauo\source\repos\CGTransformer\CGTransformer\bin\Debug\CGTransformer.exe.config
+C:\Users\t-edhauo\source\repos\CGTransformer\CGTransformer\bin\Debug\CGTransformer.exe
+C:\Users\t-edhauo\source\repos\CGTransformer\CGTransformer\bin\Debug\CGTransformer.pdb
+C:\Users\t-edhauo\source\repos\CGTransformer\CGTransformer\obj\Debug\CGTransformer.Properties.Resources.resources
+C:\Users\t-edhauo\source\repos\CGTransformer\CGTransformer\obj\Debug\CGTransformer.csproj.GenerateResource.cache
+C:\Users\t-edhauo\source\repos\CGTransformer\CGTransformer\obj\Debug\CGTransformer.csproj.CoreCompileInputs.cache
+C:\Users\t-edhauo\source\repos\CGTransformer\CGTransformer\obj\Debug\CGTransformer.exe
+C:\Users\t-edhauo\source\repos\CGTransformer\CGTransformer\obj\Debug\CGTransformer.pdb
+C:\Users\t-edhauo\source\repos\CGTransformer\CGTransformer\obj\Debug\CGTransformer.WindowForm.resources
+C:\Users\t-edhauo\source\repos\CGTransformer\CGTransformer\obj\Debug\CGTransformer.csprojResolveAssemblyReference.cache
